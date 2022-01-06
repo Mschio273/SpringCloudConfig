@@ -1,2 +1,5 @@
+message: hello world
 server:
     port: 9001
+    
+    
